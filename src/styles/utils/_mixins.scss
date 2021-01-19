@@ -4,3 +4,42 @@
     #{$_property}: $_toValue;
   }
 }
+
+@mixin font36 {
+  font-size: 36px;
+  line-height: 36px;
+  color: #333;
+}
+
+@mixin font24 {
+  font-size: 24px;
+  line-height: 24px;
+}
+
+@mixin font16 {
+  font-size: 16px;
+  line-height: 16px;
+}
+
+@mixin font12 {
+  font-size: 12px;
+  line-height: 12px;
+}
+
+@mixin object-fit($object-fit: null, $max-width: 100%, $max-height: 100%) {
+  object-fit: $object-fit;
+  max-width: $max-width;
+  max-height: $max-height;
+}
+
+@mixin for-1180 {
+  @media (max-width: 1180px) {
+    @content;
+  }
+}
+
+@mixin for-1024 {
+  @media (max-width: 1024px) {
+    @content;
+  }
+}
