@@ -32,4 +32,3 @@ Design [Figma design](https://www.figma.com/file/B4inXKHcMH3ChrTnXEJKS1/POTR-POT
 **Methodologies:**
 - BEM;
 - Cross-browser semantic and responsive
->>>>>>> 4b87c03a8f3fac161aaf1a7349ae7842a75c508f
