@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://Layrovell.github.io/Eco_cosmetics/)
-=======
 # POTR POTS landing page [DEMO LINK](https://layrovell.github.io/Potr-Pots/)
 
 Design [Figma design](https://www.figma.com/file/B4inXKHcMH3ChrTnXEJKS1/POTR-POTS-(Copy)?node-id=0%3A1) - Use BEM and SCSS
